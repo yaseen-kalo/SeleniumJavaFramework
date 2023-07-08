@@ -60,7 +60,7 @@ public class Pagination_Filter_Sorting {
 
 	private static String getVegieDiscountedPrice(WebElement m) {
 		// TODO Auto-generated method stub
-		String discountedPrice = m.findElement(By.xpath("//tbody/tr/td[1]/following-sibling::td[2]")).getText();
+		String discountedPrice = m.findElement(By.xpath("following-sibling::td[2]")).getText();
 		return discountedPrice;
 	}
 
