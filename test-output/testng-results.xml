@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-16T18:56:53 CEST" name="Suite" finished-at="2023-07-16T18:56:59 CEST" duration-ms="5919">
+    <groups>
+    </groups>
+    <test started-at="2023-07-16T18:56:53 CEST" name="Test" finished-at="2023-07-16T18:56:59 CEST" duration-ms="5919">
+      <class name="RealTimeExcercise.testng_GoogleTitle">
+        <test-method signature="verifyTextboxinput(java.lang.String)[pri:0, instance:RealTimeExcercise.testng_GoogleTitle@3646a422]" started-at="2023-07-16T18:56:53 CEST" name="verifyTextboxinput" finished-at="2023-07-16T18:56:59 CEST" duration-ms="5901" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cricket]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextboxinput -->
+      </class> <!-- RealTimeExcercise.testng_GoogleTitle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
